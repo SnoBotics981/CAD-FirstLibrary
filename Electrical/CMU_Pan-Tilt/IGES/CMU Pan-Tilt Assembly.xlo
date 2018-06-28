@@ -1,0 +1,76 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\t8558es\Desktop\CMU Pan-Tilt
+Assembly.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       CMU Pan-Tilt Assembly.iam
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     CMU Pan-Tilt Assembly.iam
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            01/16/2006 00:39:39
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                             953
+  104        1    Ellipse                                                   16
+  110        0    Line                                                    2109
+  116        0    Point                                                    331
+  120        0    Surface of Revolution                                    189
+  123        0    Direction                                                662
+  124        0    Transformation Matrix                                    438
+  126        0    Rational B-Spline Curve (General)                        232
+  128        0    Rational B-Spline Surface (General)                       82
+  141        0    Boundary Entity                                          871
+  143        0    Bounded Surface                                          602
+  190        1    Plane Surface (parameterized)                            331
+  308        0    Subfigure Definition                                      17
+  314        0    Color Definition                                           8
+  408        0    Subfigure Instance                                        67
+------------------------------------------------------------------------------
+                                                               Total      6908
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:03
+Clock:     00:00:03
+==============================================================================
+

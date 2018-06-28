@@ -1,0 +1,72 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\t8558es\Desktop\Fan-PAPST-412F.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       Fan-PAPST-412F.ipt
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.1
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.1
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     Fan-PAPST-412F.ipt
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            12/25/2005 16:42:07
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                             257
+  110        0    Line                                                     305
+  116        0    Point                                                     59
+  120        0    Surface of Revolution                                     23
+  123        0    Direction                                                118
+  124        0    Transformation Matrix                                     92
+  126        0    Rational B-Spline Curve (General)                         56
+  128        0    Rational B-Spline Surface (General)                       25
+  141        0    Boundary Entity                                          127
+  143        0    Bounded Surface                                          107
+  190        1    Plane Surface (parameterized)                             59
+  314        0    Color Definition                                           1
+------------------------------------------------------------------------------
+                                                               Total      1229
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:00
+Clock:     00:00:01
+==============================================================================
+

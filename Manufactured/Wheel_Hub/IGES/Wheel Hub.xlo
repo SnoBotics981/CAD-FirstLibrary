@@ -1,0 +1,71 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\Owner\Desktop\Wheel Hub.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       Wheel Hub.ipt
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     Wheel Hub.ipt
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            12/31/2005 12:30:18
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                              94
+  110        0    Line                                                     152
+  116        0    Point                                                     18
+  120        0    Surface of Revolution                                     26
+  123        0    Direction                                                 36
+  124        0    Transformation Matrix                                     42
+  126        0    Rational B-Spline Curve (General)                          8
+  141        0    Boundary Entity                                           64
+  143        0    Bounded Surface                                           44
+  190        1    Plane Surface (parameterized)                             18
+  314        0    Color Definition                                           1
+------------------------------------------------------------------------------
+                                                               Total       503
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:00
+Clock:     00:00:00
+==============================================================================
+

@@ -1,0 +1,74 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\Owner\Desktop\Spike H.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       Spike H.iam
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     Spike H.iam
+Model Space Scale:        1.000000e+000
+Unit Flag:                2
+Unit String:              MM
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            01/06/2006 19:18:59
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                             177
+  104        1    Ellipse                                                   26
+  110        0    Line                                                    1303
+  116        0    Point                                                    217
+  120        0    Surface of Revolution                                     43
+  123        0    Direction                                                434
+  124        0    Transformation Matrix                                    108
+  128        0    Rational B-Spline Surface (General)                       27
+  141        0    Boundary Entity                                          335
+  143        0    Bounded Surface                                          287
+  190        1    Plane Surface (parameterized)                            217
+  308        0    Subfigure Definition                                       8
+  314        0    Color Definition                                           5
+  408        0    Subfigure Instance                                        12
+------------------------------------------------------------------------------
+                                                               Total      3199
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:02
+Clock:     00:00:02
+==============================================================================
+

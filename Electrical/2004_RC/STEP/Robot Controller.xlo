@@ -1,0 +1,114 @@
+Title: STEP Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\Owner\Desktop\Robot Controller.stp
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+STEP File Header Section Entities:
+------------------------------------------------------------------------------
+
+File_description:
+=================
+
+description: 
+
+implementation_level: 2;1
+
+File_name:
+==========
+
+name: C:\Documents and Settings\Owner\Desktop\Robot Controller.stp
+
+time_stamp: 2006-01-07T21:06:12
+
+author: Owner
+
+organization: 
+
+preprocessor_version: Autodesk Inventor (R) 6.0
+
+originating_system: Autodesk Inventor (R) 6.0
+
+authorization: 
+
+File_schema:
+============
+
+schema_identifiers: AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }
+
+==============================================================================
+Entity Summary for Data Section:
+------------------------------------------------------------------------------
+ Type        Entity Name                                            Count
+------------------------------------------------------------------------------
+ 8002        axis2_placement_3d                                      1495
+ 8012        b_spline_surface_with_knots                               27
+ 8013        cartesian_point                                         6354
+ 8017        circle                                                   646
+ 8018        closed_shell                                              12
+ 8023        conical_surface                                           42
+ 8029        cylindrical_surface                                      210
+ 8032        direction                                               4444
+ 8035        edge_curve                                              2108
+ 8036        edge_loop                                               1009
+ 8038        ellipse                                                    8
+ 8043        face_bound                                               134
+ 8044        face_outer_bound                                         875
+ 8053        line                                                    1454
+ 8055        manifold_solid_brep                                       12
+ 8062        oriented_edge                                           4216
+ 8072        plane                                                    482
+ 8093        spherical_surface                                          8
+ 8107        vector                                                  1454
+ 8110        vertex_point                                            1335
+ 8203        product_related_product_category                          13
+ 8204        length_measure_with_unit                                  13
+ 8206        application_context                                       13
+ 8207        product_context                                           13
+ 8209        product_definition_formation                              13
+ 8212        product_definition_context                                13
+ 8214        item_defined_transformation                               86
+ 8216        plane_angle_measure_with_unit                             13
+ 8219        dimensional_exponents                                     26
+ 8223        advanced_brep_shape_representation                        12
+ 8224        product                                                   13
+ 8228        product_definition_shape                                  99
+ 8230        advanced_face                                            875
+ 8232        shape_representation                                      13
+ 8233        product_definition                                        13
+ 8240        shape_definition_representation                           13
+ 8249        uncertainty_measure_with_unit                             13
+ 8300        application_protocol_definition                           13
+ 8332        next_assembly_usage_occurrence                            86
+ 8333        context_dependent_shape_representation                    86
+ 8334        shape_representation_relationship                         12
+ 8503        colour_rgb                                                 3
+ 8533        fill_area_style                                            4
+ 8534        fill_area_style_colour                                     4
+ 8574        presentation_style_assignment                              4
+ 8582        styled_item                                               12
+ 8584        surface_side_style                                         4
+ 8587        surface_style_fill_area                                    4
+ 8597        surface_style_usage                                        4
+ 8631        mechanical_design_geometric_presentation_representation         1
+ 8632        draughting_pre_defined_colour                              1
+ 8999        external_map                                             164
+------------------------------------------------------------------------------
+                                                          Total     27981
+
+==============================================================================
+==============================================================================
+
+Error Summary:
+
+No errors.
+
+==============================================================================
+Elapsed Time:
+------------------------------------------------------------------------------
+Processor: 00:00:02
+Clock:     00:00:03
+==============================================================================

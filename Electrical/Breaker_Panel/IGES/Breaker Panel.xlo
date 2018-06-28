@@ -1,0 +1,75 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\Owner\Desktop\Breaker Panel.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       Breaker Panel.iam
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     Breaker Panel.iam
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            12/31/2005 07:40:10
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                             728
+  104        1    Ellipse                                                  396
+  110        0    Line                                                    4570
+  116        0    Point                                                    527
+  120        0    Surface of Revolution                                    260
+  123        0    Direction                                               1054
+  124        0    Transformation Matrix                                    679
+  126        0    Rational B-Spline Curve (General)                         62
+  128        0    Rational B-Spline Surface (General)                      227
+  141        0    Boundary Entity                                         1274
+  143        0    Bounded Surface                                         1014
+  190        1    Plane Surface (parameterized)                            527
+  308        0    Subfigure Definition                                      17
+  314        0    Color Definition                                           5
+  408        0    Subfigure Instance                                       157
+------------------------------------------------------------------------------
+                                                               Total     11497
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:04
+Clock:     00:00:04
+==============================================================================
+

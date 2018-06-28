@@ -1,0 +1,73 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     C:\Documents and Settings\t8558es\Desktop\temp\2006 Wheel
+Sprocket.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       2006 Wheel Sprocket.ipt
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     2006 Wheel Sprocket.ipt
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            02/07/2006 21:56:56
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                             430
+  110        0    Line                                                     736
+  116        0    Point                                                      3
+  120        0    Surface of Revolution                                    228
+  123        0    Direction                                                  6
+  124        0    Transformation Matrix                                     81
+  126        0    Rational B-Spline Curve (General)                        672
+  128        0    Rational B-Spline Surface (General)                        7
+  141        0    Boundary Entity                                          264
+  143        0    Bounded Surface                                          238
+  190        1    Plane Surface (parameterized)                              3
+  314        0    Color Definition                                           1
+------------------------------------------------------------------------------
+                                                               Total      2669
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:01
+Clock:     00:00:02
+==============================================================================
+

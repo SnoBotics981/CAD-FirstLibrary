@@ -1,0 +1,72 @@
+Title: IGES Export Journal (Autodesk Inventor)
+==============================================================================
+Translating To:     \\Server1\share1\My Documents\Ed\FIRST\First 2006\New
+Parts\Clinometer\Clinometer.igs
+
+==============================================================================
+
+Translation phase:
+
+==============================================================================
+Start Section:
+
+
+Global Section:
+
+Parameter Delimiter:      ,
+Record Delimiter:         ;
+Sending Product ID:       Clinometer.ipt
+File Name:                No Iges File Name specified
+System ID:                AutoDesk Inventor R6.0
+Preprocessor Version:     AutoDesk Inventor Iges Exporter R6.0
+Size of Integer:          32
+Sgl. Precision Mag:       38
+Sgl. Precision Sig:       6
+Dbl. Precision Mag:       99
+Dbl. Precision Sig:       15
+Receiving Product ID:     Clinometer.ipt
+Model Space Scale:        1.000000e+000
+Unit Flag:                1
+Unit String:              IN
+# of Line Weights:        1
+Maximum Line Width:       8.000000e-002
+Creation Date:            12/29/2005 15:29:30
+Minimum Resolution:       1.000000e-006
+Maximum Coordinate:       1.000000e+004
+Author:                   No Author specified
+Organization:             No Organization specified
+IGES Version Number:      11  (IGES 5.3)
+Drafting Standard:        0
+Protocol Description:     No Application Protocol specified
+Model Create/Modify Date: Not Specified
+
+Entity Summary:
+
+ Type     Form    Description                                            Count
+------------------------------------------------------------------------------
+  100        0    Circular Arc                                              34
+  110        0    Line                                                      80
+  116        0    Point                                                     20
+  120        0    Surface of Revolution                                      4
+  123        0    Direction                                                 40
+  124        0    Transformation Matrix                                     17
+  128        0    Rational B-Spline Surface (General)                        5
+  141        0    Boundary Entity                                           52
+  143        0    Bounded Surface                                           29
+  190        1    Plane Surface (parameterized)                             20
+  314        0    Color Definition                                           1
+------------------------------------------------------------------------------
+                                                               Total       302
+==============================================================================
+
+==============================================================================
+Error Summary:
+
+No errors.
+
+Elapsed Time:
+
+Processor: 00:00:00
+Clock:     00:00:00
+==============================================================================
+
