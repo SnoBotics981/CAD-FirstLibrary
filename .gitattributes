@@ -1,9 +1,12 @@
+*.dwg    binary
 *.gif    binary
 *.iam    binary
+*.igs    binary
 *.ipt    binary
 *.jpg    binary
 *.PDF    binary
 *.pdf    binary
+*.sat    binary
 *.STEP   binary
 *.step   binary
 *.stp    binary
